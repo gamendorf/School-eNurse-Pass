@@ -3,7 +3,7 @@
 
 _Last Updated: August 1, 2025_
 
-Thank you for using **[App Name]** ("the App"). This Privacy Policy explains how your information is handled when you use the App, which is available via the Google Workspace Marketplace.
+Thank you for using **School eNurse Pass** ("the App"). This Privacy Policy explains how your information is handled when you use the App, which is available via the Google Workspace Marketplace.
 
 ---
 
@@ -37,10 +37,5 @@ This Privacy Policy may be updated from time to time. If significant changes are
 
 ---
 
-## 6. Contact
-
-If you have any questions or concerns about this Privacy Policy, you can contact me at: **[your email address]**
-
----
 
 By using the App, you acknowledge that you have read and understood this Privacy Policy.
