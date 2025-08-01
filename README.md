@@ -5,7 +5,9 @@ Google Sheets add-on that enables two-way communication from clinic to classroom
 
 
 # Installation
-Coming Soon...
+1. Use this link to access the eNurse Pass template. Click to blue Use Template button to create your own copy of the form.<br>[eNuse Pass Template](https://docs.google.com/forms/d/1rz5A7rtOrbkNLNhLoD2I-QO30pLDqsPdpgEf-W6E5n4/template/preview)
+2. Coming Soon...
+
 
 # Contact
 Coming Soon...
