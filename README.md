@@ -13,4 +13,4 @@ Coming Soon...
 # Pricing
 This add-on was created to help my wife in her school clinic during COVID. Since then, other nurses have asked for access as well. I am providing it completely free.
 If you feel motivated to show your appreciation by buying me a coffee... that would be greatly appreciated.
-<Venmo placeholder>
+[Gamendorf's Venmo](https://www.venmo.com/u/gamendorf)
